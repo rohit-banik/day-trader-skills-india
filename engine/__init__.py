@@ -1,0 +1,1 @@
+"""DayTrader core engine."""
