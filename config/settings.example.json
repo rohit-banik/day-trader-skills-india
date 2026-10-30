@@ -1,0 +1,19 @@
+{
+  "market": {
+    "exchanges": ["NSE", "BSE"],
+    "timezone": "Asia/Kolkata",
+    "currency": "INR"
+  },
+  "broker": {
+    "provider": "groww",
+    "connected": false
+  },
+  "execution": {
+    "mode": "paper",
+    "live_orders_enabled": false,
+    "require_explicit_approval": true
+  },
+  "risk": {
+    "limits_configured": false
+  }
+}

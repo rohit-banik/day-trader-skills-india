@@ -4,3 +4,9 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Local runtime and trade data
+config/settings.local.json
+trader/
+logs/
+*.log
